@@ -1,0 +1,7 @@
+[package]
+name = "cli_script"
+version = "0.1.0"
+
+[[bin]]
+name = "cli_script"
+path = "cli_script.py"
